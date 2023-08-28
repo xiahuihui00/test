@@ -1,1 +1,6 @@
 hello,test更新!
+<<<<<<< HEAD
+hello,张三！
+=======
+hello,world!
+>>>>>>> d0f900341355d429f335fe626af6146e2d91ed75
